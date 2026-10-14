@@ -1,0 +1,7 @@
+Raw row,What happened
+5,Removed: duplicate of row 3
+7,"Quantity was blank, set to 1"
+9,"Skipped: unreadable date ""pending"""
+13,"Skipped: unreadable amount ""TBD"""
+20,Removed: duplicate of row 19
+-,2 blank row(s) removed

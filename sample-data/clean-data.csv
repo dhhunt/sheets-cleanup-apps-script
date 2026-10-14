@@ -1,0 +1,15 @@
+Order Date,Customer,Sales Rep,Region,Product,Qty,Amount
+2026-01-05,Acme Corp,Jane Doe,North,Widget Pro,3,1200
+2026-01-07,Bright Ideas Llc,Mark Lee,North,Widget Basic,1,350
+2026-01-09,Harbor Foods,Jane Doe,South,Widget Pro,2,800
+2026-01-15,Summit Dental,Priya Shah,East,Support Plan,1,2400
+2026-01-22,Oak & Pine,Priya Shah,East,Widget Basic,4,1400
+2026-02-02,Acme Corp,Jane Doe,North,Support Plan,1,2400
+2026-02-02,Riverbend School,Mark Lee,West,Widget Pro,5,2000
+2026-02-10,Harbor Foods,Jane Doe,South,Widget Basic,2,700
+2026-02-20,Summit Dental,Unassigned,East,Widget Basic,2,700
+2026-02-27,Coastal Realty,Jane Doe,South,Refund - Widget Pro,1,-400
+2026-03-03,Bright Ideas Llc,Mark Lee,North,Support Plan,1,2400
+2026-03-12,Delta Freight,Mark Lee,West,Widget Pro,6,2400
+2026-03-18,Harbor Foods,Jane Doe,South,Widget Pro,2,800
+2026-03-25,Riverbend School,Priya Shah,West,Widget Basic,10,3500

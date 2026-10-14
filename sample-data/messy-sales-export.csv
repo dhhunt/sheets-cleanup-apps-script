@@ -1,0 +1,21 @@
+ Order_Date ,Customer Name,Sales Rep,REGION,Product,Qty,Order Total
+2026-01-05,acme corp,jane doe,North,Widget Pro,3,"$1,200.00"
+1/7/2026,  Bright Ideas LLC ,MARK LEE,north ,Widget Basic,1,350
+Jan 9 2026,Harbor Foods,Jane Doe,South,Widget Pro,2,$800
+1/7/2026,Bright Ideas LLC,Mark Lee,North,Widget Basic,1,350.00
+,,,,,,
+1/15/26,Summit Dental,priya shah,East,Support Plan,,"$2,400.00"
+2026-01-22,Oak & Pine,Priya Shah,EAST,Widget Basic,4,"1,400"
+pending,Delta Freight,Mark Lee,West,Widget Pro,1,$400
+2/2/2026,acme corp,Jane Doe,North,Support Plan,1,$2400
+02-Feb-2026,Riverbend School,  mark   lee,West,Widget Pro,5,"$2,000.00"
+February 10 2026,Harbor Foods,Jane Doe,south,Widget Basic,2,700
+2/14/2026,Oak & Pine,Priya Shah,East,Widget Pro,1,TBD
+2/20/2026,Summit Dental,,East,Widget Basic,2,$700
+2/27/2026,Coastal Realty,Jane Doe,South,Refund - Widget Pro,1,($400.00)
+3/3/2026,Bright Ideas LLC,Mark Lee,North,Support Plan,1,"$2,400"
+,,,,,,
+2026-03-12,Delta Freight,mark lee,WEST,Widget Pro,6,"$2,400.00"
+3/18/2026,Harbor Foods,Jane Doe,South,Widget Pro,2,$800
+3/18/2026,Harbor Foods,Jane Doe,South,Widget Pro,2,$800
+3/25/2026,Riverbend School,Priya Shah,West,Widget Basic,10,"$3,500.00"
